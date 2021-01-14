@@ -6,7 +6,7 @@
 
 - Install Process Hacker
 
- ## Proces, Thread, and Memory Properties
+ ## Process, Thread, and Memory Properties
 
 - Process Properties
   
