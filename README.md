@@ -1,5 +1,5 @@
 # In-memory Evasion
-- Notes taken during the course taught by Raphael Mudge
+- Notes taken during the mini course taught by Raphael Mudge
   - https://www.youtube.com/watch?v=lz2ARbZ_5tE&t=9s
 
 ## Index
