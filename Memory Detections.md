@@ -44,22 +44,22 @@
        - Strings associated with toolset.
     
 ## Memory Detection Applications
-  - Point-in-time Analysis
-        - "Hunt Assessment"
-        - Non-persisent software
-        - *Walk process*, threads, memory one-time
-        - Investigate content AND properties
-        - Report signs of malicious activity to analyst
-        - *Analyst reviews and determines actions*
-        - Some false postivies are OK
+- Point-in-time Analysis
+  - "Hunt Assessment"
+  - Non-persisent software
+  - *Walk process*, threads, memory one-time
+  - Investigate content AND properties
+  - Report signs of malicious activity to analyst
+  - *Analyst reviews and determines actions*
+  - Some false postivies are OK
         
-  - Real-time Detection & Prevention
-        - Persistent software
-        - *Event driven*: new process, threads, more
-        - Investigate content AND properties
-        - Correlate multiple signs of malicious activity
-        - *Do nothing, fire alert, or deny action*
-        - Bias against false positives.
+- Real-time Detection & Prevention
+  - Persistent software
+  - *Event driven*: new process, threads, more
+  - Investigate content AND properties
+  - Correlate multiple signs of malicious activity
+  - *Do nothing, fire alert, or deny action*
+  - Bias against false positives.
 
 ## Detection Tools
   - Reflection Injection Detection
