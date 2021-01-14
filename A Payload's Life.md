@@ -27,7 +27,6 @@
 	- 5 Reflective DLL initializes itself in new memory
 	- 6 Reflective DLL calls payload entry point
 
-
 ## Artifacts (Cobalt Strike 2018)
 - Executable
 	- Migrate: NO
