@@ -29,7 +29,46 @@
 
 
 ## Artifacts
-
+- Executable
+	- Migrate: NO
+	- RWX: NO
+	- Module-less Thread: NO
+- DLL
+	- Migrate: NO
+	- RWX: NO
+	- Module-less Thread: NO
+- DLL (X64 -> X86)
+	- Migrate: YES
+	- RWX: NO
+	- Module-less Thread: YES
+- Java Applet (x86)
+	- Migrate: YES
+	- RWX: NO
+	- Module-less Thread: NO
+- Java Applet (x64)
+	- Migrate: YES
+	- RWX: NO
+	- Module-less Thread: YES
+- Powershell
+	- Migrate: NO
+	- RWX: YES
+	- Module-less Thread: YES
+- Python
+	- Migrate: NO
+	- RWX: YES
+	- Module-less Thread: YES
+- Service Executable
+	- Migrate: YES
+	- RWX: NO
+	- Module-less Thread: NO: YES
+- Service Executable (X64 -> X86)
+	- Migrate: YES
+	- RWX: NO
+	- Module-less Thread: YES
+- VBA Macro
+	- Migrate: YES
+	- RWX: YES
+	- Module-less Thread: YES
 
 ## Process Injection
 
