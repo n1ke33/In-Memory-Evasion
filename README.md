@@ -22,7 +22,3 @@
 
 - [Evasions](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/blob/main/Evasion.md#evasions)
 - [Process Context](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/edit/main/README.md)
-
-### [Threat Emulation](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion)
-
-- [D](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion)
