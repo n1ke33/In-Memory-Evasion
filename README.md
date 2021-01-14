@@ -10,9 +10,13 @@
 - [Memory Detection Applications](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/blob/main/Memory%20Detections.md#memory-detection-applications)
 - [Detection Tools](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/blob/main/Memory%20Detections.md#detection-tools)
 
-### [A Payload's Life](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion)
+### [A Payload's Life](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/blob/main/A%20Payload's%20Life.md)
 
-- [B](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion)
+- [Staged Payloads](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/blob/main/A%20Payload's%20Life.md#staged-payloads)
+- [Stageless Payloads](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/blob/main/A%20Payload's%20Life.md#stageless-payloads)
+- [Artifacts (Cobalt Strike 2018)](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/blob/main/A%20Payload's%20Life.md#artifacts-cobalt-strike-2018)
+- [Process Injection](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/blob/main/A%20Payload's%20Life.md#process-injection)
+- [Process Hollowing](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/blob/main/A%20Payload's%20Life.md#process-injection)
 
 ### [Evasion](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion)
 
