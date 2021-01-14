@@ -28,7 +28,7 @@
 	- 6 Reflective DLL calls payload entry point
 
 
-## Artifacts
+## Artifacts (Cobalt Strike 2018)
 - Executable
 	- Migrate: NO
 	- RWX: NO
@@ -71,8 +71,13 @@
 	- Module-less Thread: YES
 
 ## Process Injection
-
+- Allocate memory in remote process
+- Copy program to remote process
+- Create thread to run program
 
 ## Process Hollowing
+- Allocate memory in remote process
+- Copy program to remote process
+- Hijack existing thread to run program
 
 
