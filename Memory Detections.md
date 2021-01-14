@@ -15,10 +15,8 @@
   - Process Name
   
   - Process Signer
-        
-        - Don't risk to have false positivies with signs like "Microsoft"
-        
-        - They can get a free pass
+     - Don't risk to have false positivies with signs like "Microsoft"
+     - They can get a free pass
   
   - Siganture Valid?
   
@@ -81,45 +79,44 @@
 ## Memory Detection Applications
 - Point-in-time Analysis
 
-- "Hunt Assessment"
+   - "Hunt Assessment"
 
-- Non-persisent software
+   - Non-persisent software
 
-- *Walk process*, threads, memory one-time
+   - *Walk process*, threads, memory one-time
 
-- Investigate content AND properties
+   - Investigate content AND properties
 
-- Report signs of malicious activity to analyst
+   - Report signs of malicious activity to analyst
 
-- *Analyst reviews and determines actions*
+   - *Analyst reviews and determines actions*
 
-- Some false postivies are OK
+   - Some false postivies are OK
         
 - Real-time Detection & Prevention
 
-- Persistent software
+   - Persistent software
 
-- *Event driven*: new process, threads, more
+   - *Event driven*: new process, threads, more
 
-- Investigate content AND properties
+   - Investigate content AND properties
 
-- Correlate multiple signs of malicious activity
+   - Correlate multiple signs of malicious activity
 
-- *Do nothing, fire alert, or deny action*
+   - *Do nothing, fire alert, or deny action*
 
-- Bias against false positives.
+   - Bias against false positives.
 
 ## Detection Tools
 
 - Reflection Injection Detection
+     - https://github.com/papadp/reflective-injection-detection
       
-      - https://github.com/papadp/reflective-injection-detection
+     - MZ header
       
-      - MZ header
+     - RWX memory
       
-      - RWX memory
-      
-      - Memory not associated with module
+     - Memory not associated with module
 
  
  - Get-InjectedThread.ps1 by Jared Atkinson
