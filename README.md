@@ -23,5 +23,5 @@
 - [Evasions](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/blob/main/Evasion.md#evasions)
 - [Process Context](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/edit/main/README.md)
 
-- Disclaimer
-The content within this repository is for educational purposes only. It is designed to help users understand "In-memory Evasion" and test their own system against information security threats and protect their IT infrastructure from similar attacks.
+### Disclaimer
+- The content within this repository is for educational purposes only. It is designed to help users understand "In-memory Evasion" and test their own system against information security threats and protect their IT infrastructure from similar attacks.
