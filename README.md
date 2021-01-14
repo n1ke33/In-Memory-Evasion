@@ -18,9 +18,10 @@
 - [Process Injection](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/blob/main/A%20Payload's%20Life.md#process-injection)
 - [Process Hollowing](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/blob/main/A%20Payload's%20Life.md#process-injection)
 
-### [Evasion](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion)
+### [Evasion](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/blob/main/Evasion.md)
 
-- [C](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion)
+- [Evasions](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/blob/main/Evasion.md#evasions)
+- [Process Context](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion/edit/main/README.md)
 
 ### [Threat Emulation](https://github.com/Sp4c3Tr4v3l3r/In-Memory-Evasion)
 
